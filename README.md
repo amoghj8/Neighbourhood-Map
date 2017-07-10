@@ -1,5 +1,5 @@
 # Neighbourhood Map 
-***
+
 
 This project uses **GoogleMaps Api** and filters the eating outlets in Mysore. It is based on MVVM concern and is built with **Knockout.js**
 
